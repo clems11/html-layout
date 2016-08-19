@@ -1,0 +1,43 @@
+body {
+	background-color: #aaa;
+}
+
+.wrapper {
+	background-color: #aaa;
+	height: 600px;
+	width: 600px;
+	margin: 50px auto;
+	overflow:hidden;
+}
+
+.blue-box {
+	display: block;
+	background-color: blue;
+	height: 70px;
+	width: 70px;
+	margin: 10px 20px;
+}
+
+.text-box {
+	background-color: #fff;	
+	height: 150px;
+	text-align: left;
+	padding:30px;
+}
+
+.aqua {
+	background-color: aqua;
+	height: 100px;
+}
+
+.green {
+	background-color: green;
+	height: 100px;
+}
+
+.yellow {
+	background-color: yellow;
+	height: 100px;
+}
+
+	
